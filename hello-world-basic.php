@@ -4,7 +4,7 @@
  * Plugin Name: Hello World Basic
  * Plugin URI: https://github.com/big-hero-dev/hello-world-basic
  * Description: A simple hello world plugin for WordPress with GitHub auto-update
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Khanh Tran
  * License: GPL v2 or later
  * Text Domain: hello-world-basic
